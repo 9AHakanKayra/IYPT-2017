@@ -4,18 +4,18 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-A   | Osman Kayra Sümer | 526
+9-A   | Ahmet Hakan Koç   | 510
 
-#  (buraya proje başlığını yazınız)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+#  (CANDLE İN WATER)
+
+## 
+Bizim yapacağımız bu deneyde atmosferik basınç ve suyun kaldırma kuvvetlerini inceleyeceğiz. Düzeneğimiz 1 tabak, 1 mum, biraz renkli su, ve cam bir kaptan oluşuyor. Tabağın içine biraz renkli su konuluyor. Bu suyun ortasına mum konuluyor ve üstüne kap kapatılıyor. Denekte belli bir süre sonra mumun söndüğü onun ardından da suyun cam kabın içinde yükseldiği görülüyor. İşte bizim yapacağımız şeyde burada başlıyor. Biz bunun nedenlerini açıklayıp daha sonrada bazı değişkenleri değiştirerek sonuçları gözleyeceğiz. Aklımızda şu ana kadar mum sayısını değiştirmek, suyun seviyesini değiştirmek ve kabı büyütüp küçültmek var. Bunun nedenlerini de inceledik. Mum sönünce bu içerdeki oksijen bitti demek oluyor. Oksijen içeri doğru girmek için basınç yaratıyor, bu basınç sonucunda içeri su giriyor. 2. bir soru olan suyun köpürcükler çıkarması da içerdeki sıcak havanın (Oksijen olmayan) dışarı çıkmaya çalışmasından kaynaklanıyor. Deneyimizden öğrenebileceğimiz şeyler ise mum oksijensiz ortamda yanmaz, oksijensiz ortama oksijen girmeye çalışır gibi şeyler. Deneyimizin bilimsel yönü gibi bir de görsel güzellik yönü var. Deneyimiz bu kadar olacaktır. Umarım beğenmişsinizdir.
+
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+ 
+ 1. https://www.youtube.com/watch?v=pyy_lup0F4c
+ 2. https://www.youtube.com/watch?v=KhCM_FrYtrE
+ 3. https://www.youtube.com/watch?v=bc7s2sG8cLM
+ 4. http://earlylearningtoys.org/vacuum-candle/
